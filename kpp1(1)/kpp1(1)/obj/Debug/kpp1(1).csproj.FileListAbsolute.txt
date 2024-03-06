@@ -1,0 +1,7 @@
+C:\Users\koval\source\repos\kpp1(1)\kpp1(1)\bin\Debug\kpp1(1).exe.config
+C:\Users\koval\source\repos\kpp1(1)\kpp1(1)\bin\Debug\kpp1(1).exe
+C:\Users\koval\source\repos\kpp1(1)\kpp1(1)\bin\Debug\kpp1(1).pdb
+C:\Users\koval\source\repos\kpp1(1)\kpp1(1)\obj\Debug\kpp1(1).csproj.AssemblyReference.cache
+C:\Users\koval\source\repos\kpp1(1)\kpp1(1)\obj\Debug\kpp1(1).csproj.CoreCompileInputs.cache
+C:\Users\koval\source\repos\kpp1(1)\kpp1(1)\obj\Debug\kpp1(1).exe
+C:\Users\koval\source\repos\kpp1(1)\kpp1(1)\obj\Debug\kpp1(1).pdb

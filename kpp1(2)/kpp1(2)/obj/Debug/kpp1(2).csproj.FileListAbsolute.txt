@@ -1,0 +1,10 @@
+C:\Users\koval\source\repos\kpp1(2)\kpp1(2)\bin\Debug\kpp1(2).exe.config
+C:\Users\koval\source\repos\kpp1(2)\kpp1(2)\bin\Debug\kpp1(2).exe
+C:\Users\koval\source\repos\kpp1(2)\kpp1(2)\bin\Debug\kpp1(2).pdb
+C:\Users\koval\source\repos\kpp1(2)\kpp1(2)\bin\Debug\Newtonsoft.Json.dll
+C:\Users\koval\source\repos\kpp1(2)\kpp1(2)\bin\Debug\Newtonsoft.Json.xml
+C:\Users\koval\source\repos\kpp1(2)\kpp1(2)\obj\Debug\kpp1(2).csproj.AssemblyReference.cache
+C:\Users\koval\source\repos\kpp1(2)\kpp1(2)\obj\Debug\kpp1(2).csproj.CoreCompileInputs.cache
+C:\Users\koval\source\repos\kpp1(2)\kpp1(2)\obj\Debug\kpp1(2).csproj.CopyComplete
+C:\Users\koval\source\repos\kpp1(2)\kpp1(2)\obj\Debug\kpp1(2).exe
+C:\Users\koval\source\repos\kpp1(2)\kpp1(2)\obj\Debug\kpp1(2).pdb
